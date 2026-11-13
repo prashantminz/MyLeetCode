@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prashantminz/MyLeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/prashantminz/MyLeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prashantminz/MyLeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/prashantminz/MyLeetCode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/prashantminz/MyLeetCode/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prashantminz/MyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/prashantminz/MyLeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
