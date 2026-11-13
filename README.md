@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prashantminz/MyLeetCode/tree/master/0258-add-digits) |
+| [1603-design-parking-system](https://github.com/prashantminz/MyLeetCode/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/prashantminz/MyLeetCode/tree/master/0016-3sum-closest) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/prashantminz/MyLeetCode/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/prashantminz/MyLeetCode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
