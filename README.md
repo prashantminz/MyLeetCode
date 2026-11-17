@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/prashantminz/MyLeetCode/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/prashantminz/MyLeetCode/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/prashantminz/MyLeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/prashantminz/MyLeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prashantminz/MyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1572-matrix-diagonal-sum](https://github.com/prashantminz/MyLeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/prashantminz/MyLeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prashantminz/MyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -68,14 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prashantminz/MyLeetCode/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/prashantminz/MyLeetCode/tree/master/0085-maximal-rectangle) |
 | [1572-matrix-diagonal-sum](https://github.com/prashantminz/MyLeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/prashantminz/MyLeetCode/tree/master/0085-maximal-rectangle) |
 | [0232-implement-queue-using-stacks](https://github.com/prashantminz/MyLeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantminz/MyLeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/prashantminz/MyLeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/prashantminz/MyLeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
