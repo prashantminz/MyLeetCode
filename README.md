@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/prashantminz/MyLeetCode/tree/master/0412-fizz-buzz) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantminz/MyLeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/prashantminz/MyLeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prashantminz/MyLeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
